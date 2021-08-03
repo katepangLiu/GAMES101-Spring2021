@@ -5,3 +5,18 @@ GAMES101:
 - https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
 - http://games-cn.org/graphics-intro-ppt-video/
 - http://games-cn.org/forums/forum/graphics-intro/
+
+
+
+Note:
+
+- [Introduction](Introduction.md)
+
+- [Rasterization](Rasterization)
+
+- [Geometry](Geometry)
+
+- [Ray Tracing](Ray-Tracing)
+
+- [Animation](Animation)
+
